@@ -1,2 +1,2 @@
 # firstproject
-bankproject
+User Registration management system
